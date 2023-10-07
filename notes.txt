@@ -1,0 +1,34 @@
+single page application(SPA)
+REACTJS
+ANGULAR JS
+VUE JS
+
+//IMPORTANT//
+1] Stackoverflow
+2] java Tpoint
+3] w3Schools
+4]Code with harry
+
+zen coding
+h1*10 enter 
+h1.10{sheela} enter  
+h1*5+h2*5 enter 
+h1*5{java}+h2*5{programming} enter 
+control +? for comment
+lorem is useto get random words lorem5 lorem10
+
+TABLE CREATION
+<TABLE> <th> <td> <tr>
+
+<ol> ordered list <li> for list <ul> unordered list
+1 element selector example  h1{}
+2 grouping selector example  h1,h2{}
+3 id 
+
+
+padding top,left,bottom,right\
+
+fontawsome.com
+copy paste in head tag
+
+
